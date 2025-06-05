@@ -1,2 +1,0 @@
-# eggs
-Pterodactyl Eggs
